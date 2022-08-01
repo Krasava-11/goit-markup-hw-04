@@ -412,7 +412,7 @@ img {
 	gap: 30px;
 }
 
-.client-item {
+.client-link-icon {
 	width: 170px;
 	height: 92px;
 	border: 1px solid #afb1b8;
@@ -424,8 +424,8 @@ img {
 	justify-content: center;
 }
 
-.client-item:hover,
-.client-item:focus {
+.client-link-icon:hover,
+.client-link-icon:focus {
 	border-color: var(--accent-color);
 	fill: var(--accent-color);
 }
